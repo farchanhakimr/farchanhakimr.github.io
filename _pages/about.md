@@ -80,7 +80,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
     <img src="{{ '/assets/img/sinica.png' | relative_url }}" alt="Academia Sinica Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
-    <strong>Research Assistant</strong> — Academia Sinica, Taiwan <br>
+    <strong>Research Assistant</strong> — Institute of Information Science, Academia Sinica, Taiwan <br>
     <span style="color: #666; font-size: 0.95rem;">2022 – 2026</span>
   </div>
 </div>
@@ -99,7 +99,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Experience 3 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/nusantara.png' | relative_url }}" alt="Nusantara Technology Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/nusantera.png' | relative_url }}" alt="Nusantara Technology Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <strong>Co-Founder</strong> — Nusantara Technology, Yogyakarta, Indonesia <br>
@@ -110,7 +110,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Experience 4 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/pertamina.png' | relative_url }}" alt="Pertamina Hulu Energy Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/phe.jpg' | relative_url }}" alt="Pertamina Hulu Energy Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <strong>Application Engineer</strong> — Pertamina Hulu Energy, Jakarta, Indonesia <br>
@@ -179,7 +179,6 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
   * European Conference on Computer Vision (ECCV)
   * Conference on Neural Information Processing Systems (NeurIPS)
 * **Journal Reviewer:**
-  * IEEE Transactions on Multimedia
   * Frontiers
 * **Volunteering:**
   * Student Volunteer at local engineering or computer science colloquiums.
