@@ -188,7 +188,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Org 1 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/ppi_ncu.png' | relative_url }}" alt="PPI NCU Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/ppi_ncu.jpg' | relative_url }}" alt="PPI NCU Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <strong>Chairman of the Member Advisory Council</strong> — Association of Indonesian Students at National Central University (PPI NCU), Taiwan <br>
@@ -199,10 +199,10 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Org 2 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/bem_ugm.png' | relative_url }}" alt="BEM KM UGM Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/bem.jph' | relative_url }}" alt="BEM KM UGM Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
-    <strong>Staff of Strategic Studies Division</strong> — Student Executive Board (BEM KM), Universitas Gadjah Mada, Indonesia <br>
+    <strong>Staff of Strategic Studies Division (FMIPA Representative)</strong> — Student Executive Board (BEM KM), Universitas Gadjah Mada, Indonesia <br>
     <span style="color: #666; font-size: 0.95rem;">2015 – 2016</span>
   </div>
 </div>
