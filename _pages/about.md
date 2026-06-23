@@ -199,7 +199,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Org 2 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/bem.jph' | relative_url }}" alt="BEM KM UGM Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/bem.jpg' | relative_url }}" alt="BEM KM UGM Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <strong>Staff of Strategic Studies Division (FMIPA Representative)</strong> — Student Executive Board (BEM KM), Universitas Gadjah Mada, Indonesia <br>
