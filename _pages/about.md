@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # set to true if you want a round profile picture
   more_info: >
-    <p>📧 your.email@g.ncu.edu.tw</p>
+    <p>📧 farchan.hakim.r@g.ncu.edu.tw</p>
     <p>📍 Taoyuan, Taiwan</p>
 
 news: false
@@ -21,6 +21,7 @@ social: true
 My name is **Farchan Hakim Raswa**. I am a Ph.D. Candidate in Computer Science and Information Engineering (CSIE) at **National Central University (NCU), Taiwan**. I am co-advised by [Prof. Jia-Ching Wang](https://dlmsl.csie.ncu.edu.tw/server) and [Prof. Chun-Shien Lu](https://homepage.iis.sinica.edu.tw/pages/lcs/index_en.html).
 
 My research interests lie in the intersection of **Deep Learning** and **Computer Vision**, but are not limited to them, with a recently focus on Federated Learning, Medical Image Analysis, and Robust Biometric Security.
+
 ---
 
 ## Selected Publications
@@ -45,10 +46,11 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 
 ## Community Service
 
-* **Reviewer:**
+* **Conference Reviewer:**
   * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   * European Conference on Computer Vision (ECCV)
   * Conference on Neural Information Processing Systems (NeurIPS)
+* **Journal Reviewer:**
   * Frontiers
 * **Volunteering:**
   * Student Volunteer at local engineering or computer science colloquiums.
