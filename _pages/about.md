@@ -118,6 +118,27 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
   </div>
 </div>
 
+<!-- Experience 5 -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/gmrt.jpg' | relative_url }}" alt="GMRT Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Humanoid Robot Programmer</strong> — Gadjah Mada Robotic Team (GMRT), Indonesia <br>
+    <span style="color: #666; font-size: 0.95rem;">2016 – 2018</span>
+  </div>
+</div>
+
+---
+
+## Achievements
+
+* **Platinum III Business Startup** — Appcelerate, Jakarta, Indonesia | *2019*
+* **Champion I (Autonomous Robot)** — International Robot Contest, Incheon, South Korea | *2018*
+* **Champion III (Boxing Robot)** — International Robot Contest, Incheon, South Korea | *2018*
+* **Regional Champion II & III** — Humanoid Soccer Robot Competition | *2017 & 2018*
+* **National Finalist** — Humanoid Soccer Robot Competition | *2017 & 2018*
+
 ---
 
 ## Selected Publications
