@@ -1,13 +1,21 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
 title: Farchan Hakim Raswa
 first_name: Farchan
 middle_name: Hakim
 last_name: Raswa
-contact_note: PhD Candidate in CSIE at National Central University, Taiwan.
+email: farchan@g.ncu.edu.tw
+timezone: Asia/Taipei
 description: PhD Candidate at NCU CSIE, co-advised by Prof. Jia-Ching Wang and Prof. Chun-Shien Lu.
-footer_text: Powered by Jekyll with al-folio theme.
 keywords: computer-vision, deep-learning, ncu-csie
 lang: en
 icon: 🎓
+
+# -----------------------------------------------------------------------------
+# URL settings
+# -----------------------------------------------------------------------------
 
 url: https://farchanhakimr.github.io
 baseurl: ""
@@ -15,7 +23,50 @@ last_updated: false
 impressum_path: ""
 back_to_top: true
 
+# -----------------------------------------------------------------------------
+# Blog settings
+# -----------------------------------------------------------------------------
+
 blog_name: Blog
 blog_description: My personal academic thoughts.
 permalink: /blog/:year/:title/
+
+# -----------------------------------------------------------------------------
+# Theme Settings (Required structural keys)
+# -----------------------------------------------------------------------------
+navbar_fixed: true
+footer_fixed: false
+show_as_grid: false
+
+# Collections
+collections:
+  news:
+    output: true
+    permalink: /news/:title
+  projects:
+    output: true
+    permalink: /projects/:title
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      read_time: true
+      comments: true
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
 lsi: false
+excerpt_separator: "\n\n"
+incremental: false
