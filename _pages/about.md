@@ -6,10 +6,10 @@ subtitle: <a href="https://csie.ncu.edu.tw/" target="_blank">CSIE</a> at Nationa
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # set to true if you want a round profile picture
   more_info: >
-    <p>📧 your.email@g.ncu.edu.tw</p>
+    <p>📧 farchan.hakim.r@g.ncu.edu.tw</p>
     <p>📍 Taoyuan, Taiwan</p>
 
 news: false
@@ -26,10 +26,49 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 
 ## Education
 
-* **Ph.D. in Computer Science** — National Central University (NCU), Taiwan | *2021 – 2026*
-* **M.S. in Computer Science** — National Central University (NCU), Taiwan | *2020 – 2021*
-* **M.S. in Computer Science** — Universitas Gadjah Mada (UGM), Indonesia | *2019 – 2021*
-* **B.S. in Electronics and Instrumentation** — Universitas Gadjah Mada (UGM), Indonesia | *2015 – 2019*
+<!-- PhD - NCU -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/ncu.png' | relative_url }}" alt="NCU Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Ph.D. in Computer Science</strong> — National Central University (NCU), Taiwan <br>
+    <span style="color: #666; font-size: 0.95rem;">2021 – 2026</span>
+  </div>
+</div>
+
+<!-- MS - NCU -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/ncu.png' | relative_url }}" alt="NCU Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>M.S. in Computer Science</strong> — National Central University (NCU), Taiwan <br>
+    <span style="color: #666; font-size: 0.95rem;">2020 – 2021</span>
+  </div>
+</div>
+
+<!-- MS - UGM -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/ugm.jpg' | relative_url }}" alt="UGM Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>M.S. in Computer Science</strong> — Universitas Gadjah Mada (UGM), Indonesia <br>
+    <span style="color: #666; font-size: 0.95rem;">2019 – 2021</span>
+  </div>
+</div>
+
+<!-- BS - UGM -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/ugm.jpg' | relative_url }}" alt="UGM Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>B.S. in Electronics and Instrumentation</strong> — Universitas Gadjah Mada (UGM), Indonesia <br>
+    <span style="color: #666; font-size: 0.95rem;">2015 – 2019</span>
+  </div>
+</div>
 
 ---
 
@@ -92,6 +131,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
   * European Conference on Computer Vision (ECCV)
   * Conference on Neural Information Processing Systems (NeurIPS)
 * **Journal Reviewer:**
+  * IEEE Transactions on Multimedia
   * Frontiers
 * **Volunteering:**
   * Student Volunteer at local engineering or computer science colloquiums.
