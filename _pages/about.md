@@ -72,6 +72,54 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 
 ---
 
+## Working Experience
+
+<!-- Experience 1 -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/sinica.png' | relative_url }}" alt="Academia Sinica Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Research Assistant</strong> — Academia Sinica, Taiwan <br>
+    <span style="color: #666; font-size: 0.95rem;">2022 – 2026</span>
+  </div>
+</div>
+
+<!-- Experience 2 -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/orbit.png' | relative_url }}" alt="Orbit Future Academy Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>AI Trainer</strong> — Orbit Future Academy, Jakarta, Indonesia <br>
+    <span style="color: #666; font-size: 0.95rem;">2022 – 2024</span>
+  </div>
+</div>
+
+<!-- Experience 3 -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/nusantara.png' | relative_url }}" alt="Nusantara Technology Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Co-Founder</strong> — Nusantara Technology, Yogyakarta, Indonesia <br>
+    <span style="color: #666; font-size: 0.95rem;">2018 – 2021</span>
+  </div>
+</div>
+
+<!-- Experience 4 -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/pertamina.png' | relative_url }}" alt="Pertamina Hulu Energy Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Application Engineer</strong> — Pertamina Hulu Energy, Jakarta, Indonesia <br>
+    <span style="color: #666; font-size: 0.95rem;">2019 – 2020</span>
+  </div>
+</div>
+
+---
+
 ## Selected Publications
 
 <!-- Paper 1 -->
