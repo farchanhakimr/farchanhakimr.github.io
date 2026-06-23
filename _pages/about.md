@@ -7,7 +7,7 @@ subtitle: <a href="https://csie.ncu.edu.tw/" target="_blank">CSIE</a> at Nationa
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # set to true if you want a round profile picture
+  image_circular: true # set to true if you want a round profile picture
   more_info: >
     <p>📧 farchan.hakim.r@g.ncu.edu.tw</p>
     <p>📍 Taoyuan, Taiwan</p>
