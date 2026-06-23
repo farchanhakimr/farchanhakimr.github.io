@@ -173,7 +173,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Experience 5 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/gmrt.png' | relative_url }}" alt="GMRT Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/gmrt.jpg' | relative_url }}" alt="GMRT Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <strong>Humanoid Robot Programmer</strong> — Gadjah Mada Robotic Team (GMRT), Indonesia <br>
