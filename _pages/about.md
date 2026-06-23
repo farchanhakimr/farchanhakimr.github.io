@@ -129,7 +129,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Experience 1 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/sinica.png' | relative_url }}" alt="Academia Sinica Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/sinica.jpg' | relative_url }}" alt="Academia Sinica Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <strong>Research Assistant</strong> — Institute of Information Science, Academia Sinica, Taiwan <br>
