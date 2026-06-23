@@ -7,7 +7,7 @@ subtitle: <a href="https://csie.ncu.edu.tw/" target="_blank">CSIE</a> at Nationa
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # set to true if you want a round profile picture
+  image_circular: false # set to true if you want a round profile picture
   more_info: >
     <p>📧 farchan.hakim.r@g.ncu.edu.tw</p>
     <p>📍 Taoyuan, Taiwan</p>
@@ -21,9 +21,6 @@ social: true
 My name is **Farchan Hakim Raswa**. I am a Ph.D. Candidate in Computer Science and Information Engineering (CSIE) at **National Central University (NCU), Taiwan**. I am co-advised by [Prof. Jia-Ching Wang](https://dlmsl.csie.ncu.edu.tw/server) and [Prof. Chun-Shien Lu](https://homepage.iis.sinica.edu.tw/pages/lcs/index_en.html).
 
 My research interests lie in the intersection of **Deep Learning** and **Computer Vision**, but are not limited to them, with a recent focus on Federated Learning, Medical Image Analysis, and Robust Biometric Security.
-
----
-
 
 ---
 
@@ -132,7 +129,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Experience 1 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/sinica.jpg' | relative_url }}" alt="Academia Sinica Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/sinica.png' | relative_url }}" alt="Academia Sinica Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <strong>Research Assistant</strong> — Institute of Information Science, Academia Sinica, Taiwan <br>
@@ -176,11 +173,37 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 <!-- Experience 5 -->
 <div style="display: flex; margin-bottom: 20px; align-items: center;">
   <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
-    <img src="{{ '/assets/img/gmrt.jpg' | relative_url }}" alt="GMRT Logo" style="width: 50px; height: 50px; object-fit: contain;">
+    <img src="{{ '/assets/img/gmrt.png' | relative_url }}" alt="GMRT Logo" style="width: 50px; height: 50px; object-fit: contain;">
   </div>
   <div style="flex: 1;">
     <strong>Humanoid Robot Programmer</strong> — Gadjah Mada Robotic Team (GMRT), Indonesia <br>
     <span style="color: #666; font-size: 0.95rem;">2016 – 2018</span>
+  </div>
+</div>
+
+---
+
+## Organization Experience
+
+<!-- Org 1 -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/ppi_ncu.png' | relative_url }}" alt="PPI NCU Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Chairman of the Member Advisory Council</strong> — Association of Indonesian Students at National Central University (PPI NCU), Taiwan <br>
+    <span style="color: #666; font-size: 0.95rem;">2022 – 2024</span>
+  </div>
+</div>
+
+<!-- Org 2 -->
+<div style="display: flex; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 0 0 60px; margin-right: 20px; text-align: center;">
+    <img src="{{ '/assets/img/bem_ugm.png' | relative_url }}" alt="BEM KM UGM Logo" style="width: 50px; height: 50px; object-fit: contain;">
+  </div>
+  <div style="flex: 1;">
+    <strong>Staff of Strategic Studies Division</strong> — Student Executive Board (BEM KM), Universitas Gadjah Mada, Indonesia <br>
+    <span style="color: #666; font-size: 0.95rem;">2015 – 2016</span>
   </div>
 </div>
 
@@ -194,6 +217,7 @@ My research interests lie in the intersection of **Deep Learning** and **Compute
 * **Regional Champion II & III** — Humanoid Soccer Robot Competition | *2017 & 2018*
 * **National Finalist** — Humanoid Soccer Robot Competition | *2017 & 2018*
 
+---
 
 ## Community Service
 
